@@ -1,0 +1,25 @@
+{
+  "name": "testing_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rv-dbartlett/Coffee_and_tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rv-dbartlett/Coffee_and_tea/issues"
+  },
+  "homepage": "https://github.com/rv-dbartlett/Coffee_and_tea#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-webdriver": "^1.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.2"
+  }
+}
