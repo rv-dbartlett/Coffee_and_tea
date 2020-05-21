@@ -5,7 +5,6 @@ var sinon = require("sinon");
 var chaiSinon = require("sinon-chai");
 var chaiHttp = require('chai-http');
 
-
 // Assertion handlers
 var expect = chai.expect;
 chai.should();
@@ -17,7 +16,6 @@ chai.use(chaiHttp);
 
 // Module we're testing
 const helloWorld = require('./hello.js')
-
 
 describe("When we run tests they", () => {
     it("should output something", () => {
