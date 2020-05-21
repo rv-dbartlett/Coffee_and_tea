@@ -4,7 +4,6 @@ var chai = require('chai');
 var sinon = require("sinon");
 var chaiSinon = require("sinon-chai");
 var chaiHttp = require('chai-http');
-var chaiWebdriver = require('chai-webdriver');
 
 
 // Assertion handlers
